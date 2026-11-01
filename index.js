@@ -6,5 +6,5 @@ const port = 3000;
 var x = port + a;
 
 for(var i = 0; i < x; i++) {
-    console.log("Itr: " + i);
+    console.log("Iterations: " + i);
 }
